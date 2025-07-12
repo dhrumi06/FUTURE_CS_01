@@ -2,7 +2,7 @@
 
 # Web Application Security Testing — DVWA
 
-## 📌 Project Overview
+## 📌 Overview
 
 It demonstrates practical web application security testing using Damn Vulnerable Web Application (DVWA). It includes vulnerability assessment and exploitation of common web flaws: SQL Injection, Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF), and Insecure Direct Object References (IDOR).  
 All vulnerabilities were tested in a safe, controlled environment for educational purposes only.
